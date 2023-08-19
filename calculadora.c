@@ -2,7 +2,7 @@
 
 int main(){
 
-printf("ola");
+printf("ola mundo");
 
 
     return 0;
